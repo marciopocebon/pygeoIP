@@ -1,7 +1,7 @@
 # pygeoIP
 <br>
 
-## Python program to get location info from IP address
+## Python program to get Location Info from IP address
 <br>
 <hr>
 pip install pygeoip
